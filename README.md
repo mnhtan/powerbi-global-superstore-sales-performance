@@ -109,17 +109,38 @@ These metrics were selected because senior managers need to evaluate not only bu
 
 The Overview page provides a high-level view of company performance, including sales, orders, customers, profit, profit margin, yearly trends, category performance, and return rate.
 
+**Key Findings:**
+
+- Sales and profit increased over time, showing positive business growth across the global superstore.
+- Profit Margin is used together with Profit to evaluate whether growth is sustainable, not only driven by higher sales.
+- Return Rate is monitored as a quality indicator to identify potential issues that may reduce profitability.
+- Category and yearly trends help senior managers quickly understand which areas are driving overall performance.
+
 ### II. Market Analysis
 
 ![Market Analysis](image/MARKET_ANALYSIS.png)
 
 The Market Analysis page helps stakeholders compare revenue, profit, profit margin, orders, and return rate across different markets and regions.
 
+**Key Findings:**
+
+- Market performance varies by region, showing that high sales does not always mean strong profitability.
+- Profit Margin helps identify markets with better business efficiency and stronger expansion potential.
+- Return Rate by market highlights regions that may need further review in operations, delivery, or product quality.
+- The page supports market expansion decisions by comparing sales scale, profit contribution, and margin quality.
+
 ### III. Product Analysis
 
 ![Product Analysis](image/Product_Analysis.png)
 
 The Product Analysis page focuses on product categories and sub-categories to identify high-profit products, low-margin items, and products with potential return issues.
+
+**Key Findings:**
+
+- Product performance differs across categories and sub-categories, so total sales alone is not enough for product decisions.
+- High-revenue products should be evaluated together with Profit Margin to avoid scaling low-margin items.
+- Return Rate helps detect product groups that may create customer dissatisfaction or reduce net profit.
+- The analysis supports product strategy by identifying which products to prioritize, optimize, or monitor more closely.
 
 ---
 
